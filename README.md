@@ -8,6 +8,6 @@ This program simulates a cluster of processors and a waiting area for the proces
 
 ## Instructions for executing
 
-After downloading the repository, use `make` in a terminal to obtain the executable, you then can use the program manually or try the two use case tests, found in jp-david.vaquero.duran.tar.
+After downloading the repository, use `make` in a terminal to obtain the executable, you then can use the program manually or try the two use case tests, found in `jp-david.vaquero.duran.tar`.
 
 ***
